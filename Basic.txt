@@ -1,0 +1,137 @@
+NETWORKING
+
+It's a connection of network at a global scale .
+
+HOW INTERNET START-
+
+Once there is cold war happen between United state and Soviet Union .
+The war for who came first in Refernence of launch first satelite or in any field .
+
+So , As a result Russian won and he Lunch Satelite name sputnik
+
+In The answer of that United States - created a program ARPA [ advanced Research Project Agency ]
+
+ARPA PROBLEM -
+The Comes that building of ARPA are in a Various part . Like they setup computer on four places - [ MIT , starford, VCLA , uta ] , Due to which it little bit harder to Commnucate to each of them .
+Its take lot of time and resource to commnucate them .
+
+PROBLEM SOLVE
+To solve this Problem They developed ARPANET { SO THEY COMMNUCATE EACH OTHER }.
+THEY USE TCP { TRANSMISSION CONTROL PROTOCAL } for the Commnucation .
+
+PROBLEM OCCURS -  
+Autmoted shareing was missing .
+
+THEY have TCP for this
+PROTOCALS - RULE AND RAGULATION SETUP BY PEOPLE .
+
+FOR SOLVE THE PROBLEM OF AUTOMATED SHAREING -
+
+now for this Come WWW { tim berner }
+
+www is a project that store these document .
+{ allow access of all these document and automated shareing was happening }
+
+BUT WE HAVE NO SEARCH ENGINE TO SEARCH ANY -
+So the first search engine was developed for the Search .
+
+        PROTOCALS -
+
+Protocal rule and regulation created by INTERNET SOCIETY.
+
+HOW IT WORK -
+
+COMPUTER -> request -> SERVER
+responce <-
+
+BASIC PROTOCALS -
+
+Basic protocals we use in Networking -
+
+TCP - > ( Transmisition control protocals insure that data will reach on distination and not be in crupted format )
+
+UDP - > ( Not all data will reaches but what required ) ( user datagram protocal)
+Exmaple - Video call .
+
+HTTP - > format of the data that transer between client and server .
+
+                        ISP { Internet Service provider }
+
+ISP -> router/ moder ( global ip address) -> seperated ip address ( d1 ..)( DHCP)
+which device call requested determineby NAP
+
+               ISP
+                !                (Its has a  GLOBAL IP ADDRESS)
+        (router / Moder)
+            !    !   !          ( SEPERATED IP ADDRESS)
+      device (1   2    3)
+
+HOW FIND WHICH DEVICE CALL A REQUEST ?
+For Determine this we use NAP
+
+WHAT IS IP/PORT Adress .
+
+Ip address identify computer
+port number identify application
+port number is 16 bit 2\*16 = 65000
+
+SOME PORT NUMBER ARE ALREADY DEFINE -
+
+HTTP -> port 80 { 0-1023} { reserved port }
+
+Mongodb ->port 27017 {1024 -49152}
+SQl -> port 1433
+
+REMAINING YOU CAN USE
+
+HOW COMMNUCATION HAPPEN -
+
+COMMNUCATION HAPPEN IN A TWO WAY -
+
+GUIDED WAY -
+In Guided way Set of path already define.
+EXAMPLE - wire
+
+UNGUIDED way
+In unguided way Set of path is Not define .
+Example wifi ,blutooth .
+
+SUBMARINE CABLE -
+
+They have Seperated across ocen from one country to another .
+
+How we gain Access of ISP .
+
+                India
+                  !
+         who manage this
+                  !
+          → smaller entity
+                  !
+          - > ISP ( bSnl , airtle , ..)
+                  !
+           give us )
+
+LETS talk About some NETWORK THAT WE HERE BEFORE
+
+LAN - local area network
+metropolitan area Network - ( across citiese)
+Wide area Network ( across country)(optical fiber cable)
+
+Internet is collection LAN-> MAN- > WAN
+
+WAN -
+SONET - > caried data using fiber cable so its cover larget area
+Frame Realay - > way to connect local area to wider area .
+
+MODEM - >
+USe to convert digital signal to analog Signal ( electrical signal )
+Router - >
+routes the data package
+
+TOPOLOGIES -
+BUS -> EVERY system connected to each other nin a seriese .
+RING → Computer connected in a ring
+STAR → One central device connected to all computer .
+TREE → Combinaton of bus and star
+MESH → Every Single computer connected to every Single computer
