@@ -1,25 +1,27 @@
-NETWORKING
+                                               NETWORKING
 
-It's a connection of network at a global scale .
+     It's a connection of network at a global scale .
 
-HOW INTERNET START-
+                                          HOW INTERNET START-
 
-Once there is cold war happen between United state and Soviet Union .
-The war for who came first in Refernence of launch first satelite or in any field .
+ Once there is cold war happen between United state and Soviet Union .
+ The war for who came first in Refernence of launch first satelite or in any field .
 
-So , As a result Russian won and he Lunch Satelite name sputnik
+ So , As a result Russian won and he Lunch Satelite name sputnik
 
-In The answer of that United States - created a program ARPA [ advanced Research Project Agency ]
+ In The answer of that United States - created a program ARPA [ advanced Research Project Agency ]
 
-ARPA PROBLEM -
+                                                  ARPA PROBLEM -
+
 The Comes that building of ARPA are in a Various part . Like they setup computer on four places - [ MIT , starford, VCLA , uta ] , Due to which it little bit harder to Commnucate to each of them .
 Its take lot of time and resource to commnucate them .
 
-PROBLEM SOLVE
+                   PROBLEM SOLVE
+
 To solve this Problem They developed ARPANET { SO THEY COMMNUCATE EACH OTHER }.
 THEY USE TCP { TRANSMISSION CONTROL PROTOCAL } for the Commnucation .
 
-PROBLEM OCCURS -  
+                  PROBLEM OCCURS -  
 Autmoted shareing was missing .
 
 THEY have TCP for this
